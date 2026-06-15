@@ -4,7 +4,7 @@ A clean, modular end-to-end machine learning pipeline built with Python and scik
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The objective of this project is to predict whether a passenger survived the Titanic disaster using demographic and travel-related features.
 
@@ -12,7 +12,7 @@ Rather than building everything inside a single notebook, the project is organiz
 
 ---
 
-## ⭐ Project Highlights
+##  Project Highlights
 
 * End-to-end machine learning workflow
 * Modular and reusable code structure
@@ -24,7 +24,7 @@ Rather than building everything inside a single notebook, the project is organiz
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 ### Programming Language
 
@@ -46,7 +46,7 @@ Rather than building everything inside a single notebook, the project is organiz
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 This project uses the Titanic dataset, which contains passenger demographic and travel information such as:
 
@@ -63,7 +63,7 @@ This project uses the Titanic dataset, which contains passenger demographic and 
 
 ---
 
-## 📂 Project Directory Structure
+##  Project Directory Structure
 
 ```text
 ├── data/
@@ -87,7 +87,7 @@ This project uses the Titanic dataset, which contains passenger demographic and 
 
 ---
 
-## ⚙️ Pipeline Architecture
+## Pipeline Architecture
 
 ### 1. Data Preprocessing (`data_preprocessing.py`)
 
@@ -146,7 +146,7 @@ outputs/figures/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Clone the repository:
 
@@ -163,7 +163,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+##  Running the Project
 
 Run the complete machine learning pipeline with:
 
@@ -184,7 +184,7 @@ python visualize.py
 
 ---
 
-## 📈 Results
+##  Results
 
 The trained models are evaluated on unseen test data using standard classification metrics.
 
@@ -200,7 +200,7 @@ The project is designed to compare multiple classification models and identify t
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Cleaning and Preprocessing
 * Feature Engineering
@@ -216,7 +216,7 @@ The project is designed to compare multiple classification models and identify t
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Hyperparameter Tuning with GridSearchCV
 * Random Forest Classifier
@@ -227,7 +227,7 @@ The project is designed to compare multiple classification models and identify t
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Habtamu Yibeltal**
 
